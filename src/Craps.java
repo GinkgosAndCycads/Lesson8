@@ -6,7 +6,7 @@ public class Craps {
     private Die die1, die2;
     private int rollnum, point;
     
-    //intantialize Craps default values
+    //instantialize Craps default values
     Craps(){
         die1 = new Die();
         die2 = new Die();
